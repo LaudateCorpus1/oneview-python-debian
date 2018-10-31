@@ -26,3 +26,7 @@ python my-python-script.py
 ```
 
 Exit the shell and the container will be destroyed but the Python code in the Docker volume will remain.
+
+### Try it out
+
+The [HPE OneView Python SDK in a container](https://github.com/HewlettPackard/oneview-python-samples/tree/master/oneview-python-in-container) sample has a [how to guide](https://github.com/HewlettPackard/oneview-python-samples/blob/master/oneview-python-in-container/oneview-python-in-container.md) and a Python sample you can use to try out the `oneview-python-debian` container.
